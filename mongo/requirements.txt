@@ -1,0 +1,6 @@
+mongodb=6.0.12
+# attached.
+
+mongodb=6.0.16
+python
+pymongo
