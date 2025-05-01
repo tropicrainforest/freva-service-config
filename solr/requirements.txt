@@ -1,0 +1,6 @@
+apache-solr=9.7.0
+# attached.
+
+apache-solr=9.8.1
+curl
+procps-ng
